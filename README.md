@@ -1,4 +1,4 @@
-Side, fun and small projects in python.
+Side, fun and small projects in Python.
 
 modular_arithmetic.py contains a Python class for rings of integers modulo a given number.
 The basic operators are defined with focus on exponentiation which uses Euler's theorem, extend to non-coprimes, to deal with large exponent.
