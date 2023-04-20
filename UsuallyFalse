@@ -35,7 +35,7 @@ with me.lying:
 print(f"Just kidding, I am {me.age}.")
 
 # Why using it instead of passing a flag parameter to the methods?
-# 1) Some methods do not accept flags like properties
+# 1) Some methods, like properties, do not accept flags
 # 2) Highlight the change
 # 3) Reuse the attribute instead of creating a new variable
 # 4) Applies to all the methods in the context without repeating the flag
