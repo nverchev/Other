@@ -13,7 +13,6 @@ class UsuallyFalse:
 
 
 # Example use case
-
 class HonestPerson:
     def __init__(self):
         self.lying = UsuallyFalse()
