@@ -12,7 +12,7 @@ class UsuallyFalse:
         self._value = False
 
 
-# Example use case.
+# Example use case
 
 class HonestPerson:
     def __init__(self):
